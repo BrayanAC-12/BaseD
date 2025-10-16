@@ -1,6 +1,6 @@
 // CONFIGURACIÓN JSONBIN.IO
 const JSONBIN_CONFIG = {
-    binId: '68f0dbe242be1c4f08a36111',
+    binId: '68f0ddebd0ea881f40a6269b',
     apiKey: '$2a$10$sVWKg80byS4NMWj81WY1FulKY.w141aBAkErH7zIDzLChIlCda12q', // Reemplaza con tu API key
     baseUrl: 'https://api.jsonbin.io/v3/b'
 };
@@ -937,4 +937,5 @@ window.removeFile = removeFile;
 window.abrirModal = abrirModal;
 window.addCustomLink = addCustomLink;
 window.removeCustomLink = removeCustomLink;
+
 window.syncData = syncData;
